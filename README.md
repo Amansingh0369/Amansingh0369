@@ -1,34 +1,27 @@
-# Welcome to My GitHub Profile
+# 💫 About Me:
+# Welcome to My GitHub Profile<br><br>## About Me<br>My name is **Aman Kumar Singh**, and I am a Computer Science student at **Chitkara University, Rajpura** (2021-2025) with a current CGPA of **8.98**. I am passionate about full-stack development and have experience working with various technologies.<br><br>## Skills<br>- **Languages**: Java, JavaScript<br>- **Web Development**: ReactJS, ExpressJS, NodeJS, MongoDB, MySQL<br>- **Styling**: Tailwind CSS<br>- **Tools**: Git, GitHub, Postman, Visual Studio Code<br>- **Soft Skills**: Time management, teamwork, problem-solving<br><br>## Projects<br>- **NOTE~iT**: A note-taking app built with Node.js, Express, and MongoDB that supports secure user authentication, CRUD operations for notes, and smooth API interaction using JWT for managing user sessions.<br>- **Portfolio Website**: A personal portfolio website to showcase my education, GitHub projects, and skills.<br>- **Course Selling App**: An application that allows users to buy courses and admins to sell them, featuring login and signup functionality.<br>- **Fruit.ai**: A health management application with frontend and backend components, including a chatbot and FAQ management.<br>- **NOTIFY**: A notes app featuring dark/light mode toggling.<br><br>## Education<br>- **Bachelor of Engineering** in Computer Science (2021-2025)<br>- **Grade XII** from **Presidency The International School Bhiwadi, Rajasthan** (2020-2021) - 75.2%<br>- **Grade X** from **Presidency The International School Bhiwadi, Rajasthan** (2018-2019) - 67%<br><br>## Contact<br>- **Email**: [singh0369aman@gmail.com](mailto:singh0369aman@gmail.com)<br>- **Phone**: +918440908306<br>- **GitHub**: [Amansingh0369](https://github.com/Amansingh0369)<br>- **LinkedIn**: [aman-singh-01663b231](https://www.linkedin.com/in/aman-singh-01663b231)<br><br>## Career Objective<br>I am actively seeking remote Backend Developer or Full-Stack Developer roles to enhance my skills and contribute to impactful projects.<br><br>Feel free to explore my repositories and connect with me!<br>
 
-## About Me
-My name is **Aman Kumar Singh**, and I am a Computer Science student at **Chitkara University, Rajpura** (2021-2025) with a current CGPA of **8.98**. I am passionate about full-stack development and have experience working with various technologies.
 
-## Skills
-- **Languages**: Java, JavaScript
-- **Web Development**: ReactJS, ExpressJS, NodeJS, MongoDB, MySQL
-- **Styling**: Tailwind CSS
-- **Tools**: Git, GitHub, Postman, Visual Studio Code
-- **Soft Skills**: Time management, teamwork, problem-solving
+## 🌐 Socials:
+[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/singh_aman0369) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/aman-singh-01663b231) [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/singh0369aman) 
 
-## Projects
-- **NOTE~iT**: A note-taking app built with Node.js, Express, and MongoDB that supports secure user authentication, CRUD operations for notes, and smooth API interaction using JWT for managing user sessions.
-- **Portfolio Website**: A personal portfolio website to showcase my education, GitHub projects, and skills.
-- **Course Selling App**: An application that allows users to buy courses and admins to sell them, featuring login and signup functionality.
-- **Fruit.ai**: A health management application with frontend and backend components, including a chatbot and FAQ management.
-- **NOTIFY**: A notes app featuring dark/light mode toggling.
+# 💻 Tech Stack:
+![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white) ![Render](https://img.shields.io/badge/Render-%46E3B7.svg?style=for-the-badge&logo=render&logoColor=white) ![Windows Terminal](https://img.shields.io/badge/Windows%20Terminal-%234D4D4D.svg?style=for-the-badge&logo=windows-terminal&logoColor=white) ![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB) ![MUI](https://img.shields.io/badge/MUI-%230081CB.svg?style=for-the-badge&logo=mui&logoColor=white) ![JWT](https://img.shields.io/badge/JWT-black?style=for-the-badge&logo=JSON%20web%20tokens) ![NPM](https://img.shields.io/badge/NPM-%23CB3837.svg?style=for-the-badge&logo=npm&logoColor=white) ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white) ![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white) ![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white) ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
+# 📊 GitHub Stats:
+![](https://github-readme-stats.vercel.app/api?username=Amansingh0369&theme=react&hide_border=false&include_all_commits=true&count_private=true)<br/>
+![](https://github-readme-streak-stats.herokuapp.com/?user=Amansingh0369&theme=react&hide_border=false)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=Amansingh0369&theme=react&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
-## Education
-- **Bachelor of Engineering** in Computer Science (2021-2025)
-- **Grade XII** from **Presidency The International School Bhiwadi, Rajasthan** (2020-2021) - 75.2%
-- **Grade X** from **Presidency The International School Bhiwadi, Rajasthan** (2018-2019) - 67%
+## 🏆 GitHub Trophies
+![](https://github-profile-trophy.vercel.app/?username=Amansingh0369&theme=default_repocard&no-frame=true&no-bg=true&margin-w=4)
 
-## Contact
-- **Email**: [singh0369aman@gmail.com](mailto:singh0369aman@gmail.com)
-- **Phone**: +918440908306
-- **GitHub**: [Amansingh0369](https://github.com/Amansingh0369)
-- **LinkedIn**: [aman-singh-01663b231](https://www.linkedin.com/in/aman-singh-01663b231)
+### ✍️ Random Dev Quote
+![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark)
 
-## Career Objective
-I am actively seeking remote Backend Developer or Full-Stack Developer roles to enhance my skills and contribute to impactful projects.
+### 🔝 Top Contributed Repo
+![](https://github-contributor-stats.vercel.app/api?username=Amansingh0369&limit=5&theme=default_repocard&combine_all_yearly_contributions=true)
 
-Feel free to explore my repositories and connect with me!
+---
+[![](https://visitcount.itsvg.in/api?id=Amansingh0369&icon=2&color=12)](https://visitcount.itsvg.in)
+
+<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
